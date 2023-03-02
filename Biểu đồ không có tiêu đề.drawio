@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T09:31:21.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="w3ZnxJFL82CSV0Lb1gnl" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T11:04:37.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UCXSkV7A1xMRtz0llg5t" version="20.8.23" type="github">
   <diagram name="Trang-1" id="r42uPq_lxR6HUhc7CNXD">
-    <mxGraphModel dx="1314" dy="5489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="5326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,8 +535,56 @@
         <mxCell id="iF0sW2QIoJHiKXRag4gN-47" value="chi tiêt task" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-3410" width="75.62" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="946" y="-2750" width="590" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="KcKy3CNMFIhAis5_J8ZE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="-2740" width="590" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-15" value="Phân rã usecase &quot;Quản lý người dùng&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="946" y="-2820" width="234" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-16" value="Tạo tài khoản người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="-2600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-17" value="Xem thông tin tất cả tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="-2510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-18" value="Xóa tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="-2420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-19" value="Đăng kí tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-2630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-20" value="Xem thông tin tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-2560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-22" value="Cập nhật thông tin tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-2470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-2150" width="590" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-24" value="Phân rã usecase &quot;Quản lý dự án&quot;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-2220" width="234" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-26" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-2490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-27" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-2505" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-32" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-1910" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-35" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-1900" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-36" value="CRUD dự án" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-2050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhuNO0M-TIe1_0BuHKKy-38" value="Thêm thành viên vào&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-1960" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
